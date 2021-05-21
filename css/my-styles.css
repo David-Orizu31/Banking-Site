@@ -67,3 +67,47 @@
         width: 300px !important;
     }
 }
+
+.security-area {
+    border-bottom: 2px solid #FF0000;
+}
+
+.security-area .about-security {
+    border-right: 2px solid #FF0000;
+}
+
+@media (max-width:800px) {
+    .security-area .about-security {
+        border-bottom: 2px solid #FF0000;
+        border-right: 2px solid white;
+    }
+}
+
+.security-area .security {
+    padding: 30px;
+}
+
+.security-icons {
+    font-size: 40px !important;
+    color: #FF0000;
+}
+
+.btn-learn {
+    color: #FF0000 !important;
+    background-color: white !important;
+    border-radius: 0px !important;
+    border: 1px solid #FF0000 !important;
+}
+
+.btn-learn:hover {
+    color: white !important;
+    background-color: #31708f !important;
+}
+
+.fraud-area {
+    padding: 30px 20px;
+}
+
+.security-list li {
+    font-size: 15px;
+}
