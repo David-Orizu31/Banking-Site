@@ -64,6 +64,6 @@
 
 @media (max-width: 480px) {
     .login-area .login-info {
-        width: 300px !important;
+        width: 200px !important;
     }
 }
