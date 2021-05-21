@@ -61,3 +61,9 @@
     width: 400px;
     margin: 0 auto;
 }
+
+@media (max-width: 480px) {
+    .login-area .login-info {
+        width: 300px !important;
+    }
+}
