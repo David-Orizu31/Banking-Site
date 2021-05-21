@@ -1,0 +1,63 @@
+.banner-form {
+    background: white;
+    max-width: 450px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.sign-btn {
+    width: 100%;
+}
+
+.banner-1 {
+    background-image: url('../images/download-mobile.png') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 300px;
+}
+
+.banner-1 h4 {
+    color: white;
+}
+
+.download-area {
+    padding-top: 50px;
+}
+
+.banner-2 {
+    background-image: url('../images/banking-247.jpg') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 300px;
+}
+
+.banner-3 {
+    background-image: url('../images/banking-3.png') !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 300px;
+}
+
+.banner-3 h3 {
+    color: white;
+}
+
+.wealth h1 {
+    color: white;
+}
+
+.wealth h2 {
+    color: white;
+}
+
+.why-work p {
+    font-size: 17px;
+}
+
+.login-area .login-info {
+    width: 400px;
+    margin: 0 auto;
+}
