@@ -66,6 +66,16 @@
     .login-area .login-info {
         width: 300px !important;
     }
+
+    .logo-white {
+        width: 200px !important;
+        height: 80px !important;
+    }
+
+    .logo-black {
+        width: 200px !important;
+        height: 80px !important;
+    }
 }
 
 .security-area {
